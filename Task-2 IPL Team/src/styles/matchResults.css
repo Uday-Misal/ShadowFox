@@ -1,0 +1,10 @@
+.results-section {
+  padding: 60px;
+  background-color: #020617;
+}
+
+.results-grid {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}

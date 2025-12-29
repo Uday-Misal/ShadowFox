@@ -1,0 +1,15 @@
+.stats-page {
+  padding: 60px;
+}
+
+.stats-page h2 {
+  color: #f9cd05;
+  margin-bottom: 30px;
+  font-size: 32px;
+}
+
+.stats-grid {
+  display: flex;
+  gap: 25px;
+  flex-wrap: wrap;
+}

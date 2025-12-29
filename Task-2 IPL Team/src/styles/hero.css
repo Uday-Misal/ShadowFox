@@ -1,0 +1,37 @@
+.hero {
+  height: 85vh;
+  background-image:
+    linear-gradient(
+      rgba(2, 6, 23, 0.75),
+      rgba(2, 6, 23, 0.75)
+    ),
+    url('../assets/celebration.webp');
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  display: flex;
+  align-items: center;
+  padding-left: 80px;
+}
+
+.hero-content h1 {
+  font-size: 56px;
+  color: #f9cd05;
+  margin-bottom: 10px;
+}
+
+.hero-content p {
+  font-size: 18px;
+  margin-bottom: 25px;
+}
+
+.hero-btn {
+  background-color: #f9cd05;
+  color: #020617;
+  padding: 12px 26px;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+}

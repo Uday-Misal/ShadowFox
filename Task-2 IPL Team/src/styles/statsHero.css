@@ -1,0 +1,56 @@
+.stats-hero {
+  height: 70vh;
+  background: linear-gradient(
+      rgba(0, 0, 0, 0.85),
+      rgba(0, 0, 0, 0.85)
+    ),
+    linear-gradient(135deg, #000000, #1e293b);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.stats-hero-content h1 {
+  font-size: 64px;
+  letter-spacing: 4px;
+  color: #e5e7eb;
+}
+
+.stats-hero-content p {
+  color: #f9cd05;
+  margin-top: 10px;
+  letter-spacing: 2px;
+  font-size: 14px;
+}
+
+.stats-buttons {
+  margin-top: 40px;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+
+.primary-btn {
+  background-color: #f9cd05;
+  color: #0f172a;
+  padding: 12px 30px;
+  border: none;
+  border-radius: 30px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.secondary-btn {
+  background-color: transparent;
+  color: #9ca3af;
+  padding: 12px 30px;
+  border: 1px solid #374151;
+  border-radius: 30px;
+  cursor: pointer;
+}
+
+.secondary-btn:hover {
+  border-color: #f9cd05;
+  color: #f9cd05;
+}

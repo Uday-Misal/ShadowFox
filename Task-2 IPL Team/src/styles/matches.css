@@ -1,0 +1,15 @@
+.matches-section {
+  padding: 60px;
+}
+
+.matches-section h2 {
+  color: #f9cd05;
+  margin-bottom: 30px;
+  font-size: 32px;
+}
+
+.matches-container {
+  display: flex;
+  gap: 25px;
+  flex-wrap: wrap;
+}

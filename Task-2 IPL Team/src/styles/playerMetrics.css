@@ -1,0 +1,10 @@
+.metrics-section {
+  padding: 60px;
+  background-color: #020617;
+}
+
+.metrics-grid {
+  display: flex;
+  gap: 25px;
+  flex-wrap: wrap;
+}

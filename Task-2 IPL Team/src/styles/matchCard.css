@@ -1,0 +1,18 @@
+.match-card {
+  background-color: #1e293b;
+  border-left: 5px solid #f9cd05;
+  padding: 20px;
+  border-radius: 8px;
+  width: 280px;
+}
+
+.match-card h3 {
+  color: #f9cd05;
+  margin-bottom: 10px;
+}
+
+.match-date,
+.match-venue {
+  font-size: 14px;
+  opacity: 0.9;
+}
