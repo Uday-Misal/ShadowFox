@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import { useState } from "react";
 import "../style/navbar.css";
-import logo from "../assets/logo.png";
+import logo from "../assets/Logo.png";
 
 const Navbar = () => {
   const [open, setOpen] = useState(false);
