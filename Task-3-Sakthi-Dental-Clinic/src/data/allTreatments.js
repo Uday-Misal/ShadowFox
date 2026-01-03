@@ -11,7 +11,7 @@ import aligner from "../assets/Aligner.png";
 import wisdom from "../assets/Wisdom Teeth Removal.png";
 import root from "../assets/Root Canal Treatment.png";
 import flap from "../assets/Flap-surgery.png";
-import fixed from "../assets/Fixed-surgery.png";
+import fixed from "../assets/Fixed Partial Denture.png";
 import bleaching from "../assets/Bleaching.png";
 
 export const allTreatments = [
