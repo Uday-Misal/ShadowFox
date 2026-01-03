@@ -4,7 +4,7 @@ import toothExtraction from "../assets/Teeth Extraction.png";
 import artificialDenture from "../assets/Artificial Complete Denture.png";
 import implants from "../assets/Impants.png";
 import laserSurgery from "../assets/Laser-Surgery.png";
-import orthodontic from "../assets/Orthodontic-Treatment.png";
+import orthodontic from "../assets/Orthodonic-Treatment.png";
 import pediatric from "../assets/Pediatric-dentistry.png";
 import veneer from "../assets/Veneer Treatment.jpg";
 import aligner from "../assets/Aligner.png";
