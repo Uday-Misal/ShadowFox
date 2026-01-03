@@ -1,0 +1,27 @@
+.trust-banner {
+  position: relative;
+  margin-top: 80px;
+}
+
+.trust-banner img {
+  width: 100%;
+  height: 420px;
+  object-fit: cover;
+}
+
+.trust-content {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.35);
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.trust-content h3 {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
