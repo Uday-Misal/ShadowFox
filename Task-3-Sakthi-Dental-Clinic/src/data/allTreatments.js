@@ -48,7 +48,7 @@ export const allTreatments = [
   },
   {
     title: "Root Canal Therapy",
-    image: root",
+    image: root,
     desc: "When infection reaches the tooth pulp, Sakthi Dental Clinic provides precise root canal treatment to remove infection, clean and seal the tooth. Our approach relieves pain, prevents future issues, and preserves your natural tooth for long-term oral health."
   },
   {
