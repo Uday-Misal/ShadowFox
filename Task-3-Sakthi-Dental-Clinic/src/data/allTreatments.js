@@ -9,7 +9,7 @@ import pediatric from "../assets/Pediatric-dentistry.png";
 import veneer from "../assets/Veneer Treatment.jpg";
 import alinger from "../assets/Aligner.png"
 import wisdom from "../assets/Wisdom Teeth Removal.png"
-import root from "..assets/Root Canal Treatment.png"
+import root from "../assets/Root Canal Treatment.png"
 import flap from "../assets/Flap-surgery.png"
 import fixed from "../assets/Fixed-surgery.png"
 import bleaching from "../assets/Bleaching.png"
